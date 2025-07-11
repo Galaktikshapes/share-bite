@@ -1,0 +1,111 @@
+SHAREBITE – Final PLP Pitch Deck
+Turning Surplus Into Support
+By Thapelo Makgakga
+Built with Flutter & Firebase
+SDG 2: Zero Hunger | SDG 12: Responsible Consumption
+
+INTRO: WHY SHAREBITE EXISTS
+Every day, shops throw away food. Restaurants bin full trays of leftovers. People have old jackets and kids’ clothes that no longer fit. Yet down the road, someone’s cold. Someone’s hungry.
+
+This isn’t a lack-of-resources problem. It’s a connection problem.
+
+ShareBite solves that. It’s a simple, mobile-first platform that connects people who have extra — with people who genuinely need help.
+
+No middleman. No paperwork. Just help, fast.
+
+THE VISION
+To create a community-powered donation network that gives every South African the power to reduce hunger and waste in their own neighborhood — using just their phone.
+
+HOW IT WORKS
+When you open ShareBite, it’s simple:
+“Hi Thapelo — are you donating or receiving today?”
+
+Choose a path.
+If you’re donating: fill in what you have (e.g. “3 loaves of bread” or “Size 7 winter jacket”).
+If you’re receiving: type what you need (“Jacket for 7-year-old boy”).
+
+No heavy forms. No wasted time.
+
+FEATURES (MVP)
+
+Email/password login (Firebase Auth)
+
+Role-based UI flow (Donor or Recipient)
+
+Smart toggles: Individual or Business donors
+
+Simple Donation Form (item, type, optional note)
+
+Lightweight Request Form (what, size/age/gender if needed)
+
+Recipient Dashboard: view latest donations
+
+Clean, responsive UI (Material Design 3)
+
+TECH STACK
+
+Flutter – UI & Mobile Development
+
+Firebase Auth – Secure login & roles
+
+Cloud Firestore – Realtime data storage
+
+Material Design 3 – Beautiful, minimal UI
+
+FlutterFire CLI – Backend setup & integration
+
+TARGET USERS
+
+Individuals (parents, students, pensioners)
+
+Local businesses (restaurants, supermarkets)
+
+Orphanages, shelters, faith-based organizations
+
+IMPACT (SDGs)
+
+SDG 2: Zero Hunger – ShareBite gets food to those in need faster
+
+SDG 12: Responsible Consumption – Reduces food & clothing waste at scale
+
+FUTURE FEATURES
+
+Claim donations before expiry
+
+Real-time geolocation matching
+
+Business donor verification
+
+Push notifications ("Donation near you")
+
+OCR image scanning for fast item logging
+
+NGO Dashboard for verified partners
+
+BUDGET & COST BREAKDOWN
+Item	Estimated Cost	Notes
+Firebase (Free Tier)	R0	Covers Auth & Firestore (MVP phase)
+Domain + Hosting	R150/year	For custom domain if needed
+Design (Figma, icons)	R0	Free assets used (Flaticon, M3)
+Internet (testing/dev)	R300	Estimated dev data usage
+Marketing (posters/ads)	R500 (optional)	Awareness once app launches
+TOTAL (MVP)	~R450–R950	Extremely low-cost & scalable
+WHY THIS SHOULD WIN
+Because ShareBite isn’t just an app — it’s a movement.
+
+It’s solving a real, visible issue in communities we live in.
+It’s fast, free, and kind.
+It gives people agency — to give, and to receive — with dignity.
+It’s built smartly. It’s designed for scale.
+It proves what a solo developer can do with purpose, even under constraints.
+
+There’s hunger out there. There’s waste. ShareBite builds the bridge between the two.
+
+FINAL WORD
+This project wasn’t about code for the sake of it. It was about using my skills to solve a problem I see around me every week.
+
+From idea to UI to backend — I built, designed, and tested everything myself. With care.
+
+This is ShareBite. Built with code. Powered by purpose.
+
+Thank you.

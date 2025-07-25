@@ -1,0 +1,140 @@
+# SHAREBITE – Final PLP Pitch Deck
+
+**Turning Surplus Into Support**  
+By Thapelo Makgakga  
+Built with Flutter & Firebase  
+SDG 2: Zero Hunger | SDG 12: Responsible Consumption
+
+---
+
+## INTRO: WHY SHAREBITE EXISTS
+
+Every day, shops throw away food. Restaurants bin full trays of leftovers. People have old jackets and kids’ clothes that no longer fit. Yet down the road, someone’s cold. Someone’s hungry.
+
+This isn’t a lack-of-resources problem. It’s a connection problem.
+
+**ShareBite** solves that. It’s a mobile-first platform that connects people who have surplus — with those who need support. 
+
+No middleman. No red tape. Just fast, human connection.
+
+---
+
+## THE VISION
+
+To build a scalable, community-powered donation network that empowers every South African — from families to businesses — to reduce hunger and waste using a simple mobile tool.
+
+---
+
+## HOW IT WORKS
+
+When users launch ShareBite, they’re greeted with:  
+**“Hi Thapelo — are you donating or receiving today?”**
+
+They choose a role. If donating: they list items (e.g. “3 loaves of bread” or “Size 7 winter jacket”).  
+If receiving: they type in what they need (e.g. “Jacket for 7-year-old boy”).
+
+It’s fast, focused, and doesn’t require heavy information.
+
+---
+
+## FEATURES (MVP)
+
+- Firebase Authentication (email/password)
+- Role selection after login (Donor or Recipient)
+- Smart toggle for Individual vs Business Donors
+- Add Donation Form (food/clothes + description)
+- Lightweight Request Form (optional age, size, gender)
+- Recipient Dashboard to view live donations
+- Clean, responsive UI with modern transitions
+
+---
+
+## TECH STACK
+
+- **Flutter** – Cross-platform UI
+- **Firebase Auth** – Secure login and role management
+- **Cloud Firestore** – Realtime storage and syncing
+- **Material Design 3** – Clean, intuitive UI
+- **FlutterFire CLI** – Backend integration and setup
+
+---
+
+## TARGET USERS
+
+- Individuals (parents, students, pensioners)
+- Local businesses (fast food outlets, supermarkets, bakeries)
+- Shelters, orphanages, churches, and informal support groups
+
+---
+
+## IMPACT (SDGs)
+
+- **SDG 2: Zero Hunger** – Matches surplus food with those who need it
+- **SDG 12: Responsible Consumption** – Reduces avoidable food and clothing waste
+
+---
+
+## FUTURE FEATURES
+
+- Donation claim and pickup confirmation
+- Geolocation-based donation matching
+- Verified business donation program
+- Notifications for nearby donations
+- OCR image scanning (for fast logging)
+- Admin dashboard for NGOs and partner shelters
+
+---
+
+## MVP BUDGET (LEAN DEVELOPMENT PHASE)
+
+| Item                          | Estimated Cost | Notes                                   |
+|-------------------------------|----------------|-----------------------------------------|
+| Firebase (Free Tier)          | R0             | Auth & Firestore (starter tier)         |
+| Domain & Hosting              | R150/year      | Optional branded domain                 |
+| Internet/Data (dev)           | R300           | Mobile data used during testing         |
+| Design Tools & Assets         | R0             | Used open source (Flaticon, Google M3)  |
+| Awareness/Outreach Material   | R500 (optional)| Flyers, posters, local awareness        |
+| **Total Estimated MVP Cost**  | **R450 – R950**| Low-cost, focused on prototype delivery |
+
+This MVP budget reflects a solo developer’s approach: build lean, prove the concept, then grow.
+
+---
+
+## SCALE-UP COST PLAN (IF TRACTION GROWS)
+
+To sustain real-world adoption, especially with businesses and NGOs onboard, the following costs are anticipated:
+
+| Item                             | Monthly/Once-off Cost | Notes                                  |
+|----------------------------------|------------------------|----------------------------------------|
+| Firebase Blaze Tier              | R400–R1,000/month      | If usage spikes (functions, reads)     |
+| Cloud Storage (images/files)     | R100–R500/month        | For uploads/photos                     |
+| Google Maps API (or OpenStreetMap)| R0–R300/month         | For geolocation matching               |
+| Legal & Privacy (POPIA, T&Cs)    | R2,000–R5,000 once     | Required for public release            |
+| Play Store + Apple Developer Fee | ~R2,300/year           | App store submission                   |
+| Outreach & Campaigns             | R1,000–R3,000/month    | Community mobilization and NGO links   |
+| Optional Team/Volunteers         | Variable               | For scaling ops (moderation, training) |
+| **Year 1 Growth Projection**     | **R10,000–R25,000+**   | Depending on scale, regions, and scope |
+
+This tier reflects real-world growth needs and shows the project is built to evolve responsibly.
+
+---
+
+## WHY THIS PROJECT DESERVES TO WIN
+
+ShareBite doesn’t just show technical skill — it shows purpose-driven design. 
+
+It solves a visible, daily challenge in communities across South Africa. It offers a bridge between surplus and scarcity. It’s clean, intuitive, and smartly built to scale — not just as code, but as a real-world system of support.
+
+Built solo. Designed with care. Rooted in the idea that tech can do more than entertain — it can feed, clothe, and connect.
+
+---
+
+## FINAL WORD
+
+I built ShareBite not because someone asked me to — but because I’ve seen the need for it in real life. From people going hungry, to businesses wasting food they’d gladly give if there was an easy way.
+
+This app is that way. And it’s just the beginning.
+
+I may be a solo developer, but with the right support and vision, ShareBite can go from a PLP final project to a nationwide solution.
+
+Thank you for the opportunity to build something that matters.
